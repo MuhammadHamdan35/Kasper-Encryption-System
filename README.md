@@ -26,7 +26,7 @@ The application features a clean, tactical desktop interface built with Python's
 ### 3. Key Information & Configuration
 * **Description:** Displays live cryptographic key material including Diffie-Hellman public/private keys, shared secrets, Base64 salts, derived hex keys, and architectural implementation specs.
 <div align="center">
-  <img src="key-info.jpg" alt="Key Information Tab" width="850">
+  <img src="key-info.png" alt="Key Information Tab" width="850">
 </div>
 
 ### 4. Digital Signatures (RSA)
@@ -38,7 +38,7 @@ The application features a clean, tactical desktop interface built with Python's
 ### 5. Cryptanalysis & Performance Suite
 * **Description:** Evaluates cipher strength through automated avalanche effect tests (single-bit plaintext and key perturbation tracking) and benchmarks throughput (MB/s) against OpenSSL's AES-256-CBC implementation.
 <div align="center">
-  <img src="cryptanalysis.jpg" alt="Cryptanalysis Tab" width="850">
+  <img src="cryptanalysis.png" alt="Cryptanalysis Tab" width="850">
 </div>
 
 ## ✨ Core Features
